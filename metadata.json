@@ -1,0 +1,6 @@
+{
+  "name": "DTV Thailand Manager",
+  "description": "Outil personnel pour préparer, contrôler et suivre votre demande de Destination Thailand Visa (DTV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
